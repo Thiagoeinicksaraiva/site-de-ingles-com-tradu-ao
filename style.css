@@ -1,0 +1,183 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#Imagem_fundo {
+background: url(img/capa.jpg);
+height: 100%;
+text-align: center;
+background-size: auto;
+}
+
+
+
+#Titulo {
+    color: white;
+    padding-top: 10%;
+    font-size: 70px;
+    line-height: 1;
+}
+
+
+#Subtitulo {
+    color: white;
+    padding-left: 32%;
+    padding-right: 32%;
+}
+
+
+
+#site {
+    color: #ffffff;
+border: 7px rgb(133, 133, 56) solid;
+padding: 10px 20px 10px 20px ;
+border-radius: 20px;
+font-size: 20px;
+text-decoration: initial;
+}
+
+
+
+#titulo2 {
+    color: rgb(89, 243, 0);
+    font-size: 40px;
+    text-align: center
+    }
+
+
+
+    #destaque {
+        background-color: rgb(31, 153, 68);
+        height: 85%;
+        width: 103%;
+    }
+
+
+    
+.coluna {
+    float: left;
+    padding: 1% 5%;
+    position: relative;
+}
+
+
+
+.dois {
+    width: 37%;
+}
+
+
+
+section {
+    padding: 20px;
+    float: left;
+}
+
+
+
+.tres {
+    width: 26%;
+    padding:1% 3%;
+}
+
+
+
+.justificado {
+    text-align: justify;
+}
+
+
+
+.centralizado {
+    text-align: center;
+}
+
+
+
+.imgelenco {
+    width: 100%;
+    height: 70%;
+}
+
+
+
+.destaques {
+background-color: rgb(105, 105, 103);
+color: rgb(255, 255, 255);
+height: 90%;
+width: 100%;
+}
+
+
+
+.centralizado{
+    text-align: center;
+    }
+
+    
+
+    .justificado {
+    text-align: justify  
+    }
+
+
+
+#logodiv {
+    width: 100%;
+    position: relative;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+#menu {
+    float: right;
+    list-style: none;
+    margin-top: 0px;
+}
+
+
+
+.li {
+    float: right;
+    padding: 10px 10px 20px 10px;
+}
+
+
+
+.Li:hover {
+    background-color: rgb(255, 197, 8);
+    color: rgb(0, 255, 242);
+}
+
+
+
+header {
+    background-color:rgb(153, 120, 50);
+    color: rgb(5, 5, 5);
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 110%;
+}
+
+
+
+#logo {
+    width: 60px;
+    position: absolute;
+    top: 11px;
+    margin-left: 0%;
+}
+
+
+
+#sobre {
+    background-color: rgb(102, 92, 170);
+    width: 100%;
+}
